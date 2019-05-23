@@ -4,7 +4,7 @@ Flyer de Opening de restaurant, Un diseño simple con el cual podrían guisarse 
 
 El diseño no es totalmente responsivo, por como se indica anteriormente es para tener una idea del diseño y codigo, los media queries deberan ser escritos a gusto.
 
-Vista Previa: 
+Vista Previa: https://juanlugodegouveia.github.io/Opening/
 
 ## Copyright
 
